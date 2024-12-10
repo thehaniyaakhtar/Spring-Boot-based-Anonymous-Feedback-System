@@ -1,6 +1,3 @@
-# Spring-Boot-based-Anonymous-Feedback-System
-A web application designed to foster better communication in classrooms. It enables students to anonymously send notifications or ask questions when they need clarification on a topic. Teachers receive these inputs in real-time, allowing them to address doubts promptly, promotes active learning by reducing hesitation in seeking help.
-
 # Spring Boot-based Anonymous Feedback System  
 
 ## Project Overview  
@@ -20,7 +17,6 @@ The **Spring Boot-based Anonymous Feedback System** is a web application that br
 ## Technology Stack  
 - **Backend**: Spring Boot  
 - **Frontend**: Thymeleaf, HTML, CSS  
-- **Database**: H2 (or replaceable with any relational database)  
 - **Tools**: IntelliJ IDEA/VS Code, Maven  
 
 ---
@@ -35,11 +31,11 @@ The **Spring Boot-based Anonymous Feedback System** is a web application that br
 ### Steps  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-repo/anonymous-feedback-system.git  
-   ```  
+   git clone https://github.com/thehaniyaakhtar/Spring-Boot-based-Anonymous-Feedback-System  
+   
 2. Navigate to the project directory:  
    ```bash  
-   cd anonymous-feedback-system  
+   cd Spring-Boot-based-Anonymous-Feedback-System 
    ```  
 3. Build the project using Maven:  
    ```bash  
@@ -81,21 +77,7 @@ src
 ---
 
 ## Future Enhancements  
-- **Email/SMS Notifications**: Notify teachers via email or SMS.  
-- **Multi-Class Support**: Expand functionality to support multiple classrooms.  
 - **User Authentication**: Add login features for enhanced security.  
 - **Mobile App Integration**: Develop a mobile-friendly version for better accessibility.  
 
----
 
-## License  
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
-
----
-
-## Acknowledgments  
-We thank our project supervisor for their guidance and all contributors for their valuable feedback during the development phase.  
-
----  
-
-Feel free to customize further as needed!
