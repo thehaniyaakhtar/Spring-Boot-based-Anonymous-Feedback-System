@@ -53,29 +53,14 @@ The **Spring Boot-based Anonymous Feedback System** is a web application that br
 ---
 
 ## Usage  
-1. Navigate to the home page: `/`  
+1. Navigate to the home page.
 2. Use the **Send Notification** tab to anonymously send a feedback notification or ask a question.  
 3. Access the **View Notifications** tab to see all notifications and questions sent anonymously.  
 
 ---
-
-## Folder Structure  
-```
-src  
-├── main  
-│   ├── java/com/notifyapp/anonynotify  
-│   │   ├── AnonynotifyApplication.java  # Main Spring Boot application  
-│   │   ├── NotificationController.java  # Controller to handle requests  
-│   ├── resources  
-│   │   ├── templates  
-│   │   │   ├── sendNotification.html  # Frontend for sending notifications  
-│   │   │   ├── viewNotifications.html  # Frontend for viewing notifications  
-│   │   ├── static/css/styles.css       # Custom styles  
-│   ├── application.properties          # Configuration  
-```  
+## Functionality
 
 ---
-
 ## Future Enhancements  
 - **User Authentication**: Add login features for enhanced security.  
 - **Mobile App Integration**: Develop a mobile-friendly version for better accessibility.  
