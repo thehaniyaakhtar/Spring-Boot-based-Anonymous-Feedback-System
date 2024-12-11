@@ -60,10 +60,14 @@ The **Spring Boot-based Anonymous Feedback System** is a web application that br
 
 ---
 ## Functionality
--**this representation does not consist of styled user interface and is only a working depiction**
+- **This representation does not consist of styled user interface and is only a working depiction**
+
 -The first image depicts students' display, where as the second and third depicts the teachers', before and after a notification has been sent respectfully.
+
 ![1](https://github.com/user-attachments/assets/499e16fc-0b19-4eda-90d1-a2b3bbbcf443)
+
 ![2](https://github.com/user-attachments/assets/5b1c5975-619e-4eea-be5d-e4cda1f7b53a)
+
 ![3](https://github.com/user-attachments/assets/bd5f61b1-c87f-4b9c-bcf9-84f7960432a8)
 
 ---
