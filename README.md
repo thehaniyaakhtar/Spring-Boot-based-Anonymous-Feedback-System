@@ -1,3 +1,4 @@
+
 # Spring Boot-based Anonymous Feedback System  
 
 ## Project Overview  
@@ -60,9 +61,9 @@ The **Spring Boot-based Anonymous Feedback System** is a web application that br
 ---
 ## Functionality
 -**this representation does not consist of styled user interface and is only a working depiction**
-<img src="C:\Users\theha\OneDrive\Desktop\1.JPG" width="700" height="400">
-<img src="C:\Users\theha\OneDrive\Desktop\2.JPG" height="400" height="400">
-<img src="C:\Users\theha\OneDrive\Desktop\3.JPG" width="700" height="400">
+![1](https://github.com/user-attachments/assets/499e16fc-0b19-4eda-90d1-a2b3bbbcf443)
+![2](https://github.com/user-attachments/assets/5b1c5975-619e-4eea-be5d-e4cda1f7b53a)
+![3](https://github.com/user-attachments/assets/bd5f61b1-c87f-4b9c-bcf9-84f7960432a8)
 
 ---
 ## Future Enhancements  
