@@ -60,9 +60,9 @@ The **Spring Boot-based Anonymous Feedback System** is a web application that br
 ---
 ## Functionality
 -**this representation does not consist of styled user interface and is only a working depiction**
-<img src="C:\Users\theha\OneDrive\Desktop\anonynotify\1.png" width="700" height="400">
-<img src="C:\Users\theha\OneDrive\Desktop\anonynotify\2.png" height="400">
-<img src="screenshots/SPgif.gif" alt="Screenshot 2" width="700" height="400">
+<img src="C:\Users\theha\OneDrive\Pictures\Screenshots\1.JPG" width="700" height="400">
+<img src="C:\Users\theha\OneDrive\Pictures\Screenshots\2.JPG" height="400">
+<img src="C:\Users\theha\OneDrive\Pictures\Screenshots\3.JPG" width="700" height="400">
 
 ---
 ## Future Enhancements  
