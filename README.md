@@ -48,8 +48,8 @@ The **Spring Boot-based Anonymous Feedback System** is a web application that br
 5. Access the application in your browser:  
    ```
    http://localhost:8080  
-   ```  
-
+   ```
+   
 ---
 
 ## Usage  
@@ -59,6 +59,10 @@ The **Spring Boot-based Anonymous Feedback System** is a web application that br
 
 ---
 ## Functionality
+-**this representation does not consist of styled user interface and is only a working depiction**
+<img src="C:\Users\theha\OneDrive\Desktop\anonynotify\1.png" width="700" height="400">
+<img src="C:\Users\theha\OneDrive\Desktop\anonynotify\2.png" height="400">
+<img src="screenshots/SPgif.gif" alt="Screenshot 2" width="700" height="400">
 
 ---
 ## Future Enhancements  
@@ -66,3 +70,4 @@ The **Spring Boot-based Anonymous Feedback System** is a web application that br
 - **Mobile App Integration**: Develop a mobile-friendly version for better accessibility.  
 
 
+---
